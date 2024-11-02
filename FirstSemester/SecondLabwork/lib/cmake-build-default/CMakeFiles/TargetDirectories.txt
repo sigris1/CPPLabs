@@ -1,0 +1,3 @@
+/Users/sigris/CPPLabs/FirstSemester/SecondLabwork/lib/cmake-build-default/CMakeFiles/int2023_t.dir
+/Users/sigris/CPPLabs/FirstSemester/SecondLabwork/lib/cmake-build-default/CMakeFiles/edit_cache.dir
+/Users/sigris/CPPLabs/FirstSemester/SecondLabwork/lib/cmake-build-default/CMakeFiles/rebuild_cache.dir

@@ -1,5 +1,0 @@
-if(EXISTS "/Users/sigris/CPPLabs/FirstSemester/FourthLabwork/cmake-build-default/tests/argparser_tests[1]_tests.cmake")
-  include("/Users/sigris/CPPLabs/FirstSemester/FourthLabwork/cmake-build-default/tests/argparser_tests[1]_tests.cmake")
-else()
-  add_test(argparser_tests_NOT_BUILT argparser_tests_NOT_BUILT)
-endif()

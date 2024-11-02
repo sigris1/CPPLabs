@@ -1,4 +1,5 @@
-cmake_minimum_required(VERSION 3.27)
+cmake_minimum_required(VERSION 3.12)
+set(CMAKE_CXX_STANDARD 20)
 include(FetchContent)
 
 FetchContent_Declare(
@@ -12,18 +13,18 @@ FetchContent_MakeAvailable(googletest)
 enable_testing()
 
 add_executable(
-        number_tests
-        number_tests.cpp
+        Tests
+        Tests.cpp
 )
 
 target_link_libraries(
-        number_tests
-        int2023_t
+        Tests
+        BSTContainer
         GTest::gtest_main
 )
 
-target_include_directories(number_tests PUBLIC "../../../SecondSemester/EighthLabwork/lib")
+target_include_directories(Tests PUBLIC ../labwork8-sigris1)
 
 include(GoogleTest)
 
-gtest_discover_tests(number_tests)
+gtest_discover_tests(Tests)

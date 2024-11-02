@@ -1,0 +1,21 @@
+# ninja log v5
+0	47	1730556263368900607	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	6f8f33170ef2b8df
+0	47	1730556263368900607	/Users/sigris/CPPLabs/SecondSemester/TenthLabwork/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	6f8f33170ef2b8df
+47	9695	1730556273017790788	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	5f85240b67c9db06
+47	9695	1730556273017790788	/Users/sigris/CPPLabs/SecondSemester/TenthLabwork/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	5f85240b67c9db06
+9695	9736	0	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	b67fc9b5870f6f7b
+9695	9736	0	/Users/sigris/CPPLabs/SecondSemester/TenthLabwork/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	b67fc9b5870f6f7b
+9736	9752	1730556273074958216	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	c576297e1ec85f85
+9736	9752	1730556273074958216	/Users/sigris/CPPLabs/SecondSemester/TenthLabwork/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	c576297e1ec85f85
+9752	9768	1730556273090663696	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	5b55cc9cf353f3ba
+9752	9768	1730556273090663696	/Users/sigris/CPPLabs/SecondSemester/TenthLabwork/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	5b55cc9cf353f3ba
+9768	9783	1730556273105980691	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	423761cce2df6476
+9768	9783	1730556273105980691	/Users/sigris/CPPLabs/SecondSemester/TenthLabwork/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	423761cce2df6476
+9783	9799	1730556273121518969	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	9df694d1b5e932d
+9783	9799	1730556273121518969	/Users/sigris/CPPLabs/SecondSemester/TenthLabwork/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	9df694d1b5e932d
+9799	9814	1730556273137059496	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	8bda993ba079f222
+9799	9814	1730556273137059496	/Users/sigris/CPPLabs/SecondSemester/TenthLabwork/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	8bda993ba079f222
+9814	9836	1730556273158815660	CMakeFiles/googletest-populate-complete	5ee12d7b1b81a6fe
+9814	9836	1730556273158815660	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	5ee12d7b1b81a6fe
+9814	9836	1730556273158815660	/Users/sigris/CPPLabs/SecondSemester/TenthLabwork/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	5ee12d7b1b81a6fe
+9814	9836	1730556273158815660	/Users/sigris/CPPLabs/SecondSemester/TenthLabwork/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	5ee12d7b1b81a6fe
